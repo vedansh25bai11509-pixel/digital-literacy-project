@@ -42,8 +42,12 @@ Researched and wrote a case study on **UPI/Online Payment Fraud**, covering how 
 Useful Links
 
 **GitHub Profile:**  https://github.com/vedansh25bai11509-pixel
+
 **LinkedIn Profile:**  https://www.linkedin.com/in/vedansh-singh-tomar-089565327/
+
 **Kaggle Profile:**  https://www.kaggle.com/vedanshsinghtomar
+
 **HackerRank Profile:** https://www.hackerrank.com/profile/vedansh_25bai111
+
 **Digital Literacy Quiz (Google Form):**  https://docs.google.com/forms/d/e/1FAIpQLSf-4AePY7DvYLFTmuWEtZ9RTVZdLi3mmCYpjcHFRZ8RDu-1CA/viewform?usp=publish-editor
 
