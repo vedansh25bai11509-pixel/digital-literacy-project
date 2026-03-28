@@ -1,11 +1,17 @@
 Digital Literacy Portfolio — CSE0001
 
 **Name:** Vedansh Singh Tomar
+
 **Registration No.:** 25BAI11509
+
 **Branch:** B.Tech – Computer Science & Engineering (AI)
+
 **Year:** First Year
+
 **Course:** CSE0001 – Digital Literacy
+
 **Institution:** VIT Bhopal University
+
 
 Module Summaries
 
